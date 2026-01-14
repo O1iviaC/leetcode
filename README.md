@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/O1iviaC/leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/O1iviaC/leetcode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/O1iviaC/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/O1iviaC/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/O1iviaC/leetcode/tree/master/0217-contains-duplicate) |
@@ -32,6 +33,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/O1iviaC/leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/O1iviaC/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/O1iviaC/leetcode/tree/master/0242-valid-anagram) |
 ## String
@@ -43,4 +45,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/O1iviaC/leetcode/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/O1iviaC/leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
