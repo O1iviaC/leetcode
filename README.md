@@ -20,6 +20,7 @@
 | [0141-linked-list-cycle](https://github.com/O1iviaC/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/O1iviaC/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/O1iviaC/leetcode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/O1iviaC/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/O1iviaC/leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/O1iviaC/leetcode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/O1iviaC/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Stack
 |  |
 | ------- |
@@ -71,4 +73,8 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/O1iviaC/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/O1iviaC/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
