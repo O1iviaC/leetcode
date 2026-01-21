@@ -87,10 +87,12 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/O1iviaC/leetcode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/O1iviaC/leetcode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/O1iviaC/leetcode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/O1iviaC/leetcode/tree/master/0226-invert-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -99,4 +101,12 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/O1iviaC/leetcode/tree/master/0200-number-of-islands) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/O1iviaC/leetcode/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/O1iviaC/leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
