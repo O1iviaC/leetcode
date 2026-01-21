@@ -86,6 +86,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/O1iviaC/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/O1iviaC/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/O1iviaC/leetcode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
@@ -104,9 +105,15 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/O1iviaC/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/O1iviaC/leetcode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/O1iviaC/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/O1iviaC/leetcode/tree/master/0226-invert-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/O1iviaC/leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
