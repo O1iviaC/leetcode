@@ -28,10 +28,10 @@ public:
         }
 
         vector<int> ans;
-        for (int f = (int)buckets.size() - 1; f >= 1 && (int)ans.size() < k; --f) {
+        for (int f = buckets.size() - 1; f >= 1 && ans.size() < k; --f) {
             for (int x : buckets[f]) {
                 ans.push_back(x);
-                if ((int)ans.size() == k) break;
+                if (ans.size() == k) break;
             }
         }
         return ans;
