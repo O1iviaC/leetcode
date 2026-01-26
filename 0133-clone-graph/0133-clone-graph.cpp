@@ -35,7 +35,7 @@ class Solution {
 
         // Clone neighbors
         for (Node* nei : node->neighbors) {
-            clone->neighbors.push_back(dfs(nei));
+            clone->neighbors.push_back(dfs(nei)); //recursive call on neighbours so they are safely cloned
         }
 
         return clone;
