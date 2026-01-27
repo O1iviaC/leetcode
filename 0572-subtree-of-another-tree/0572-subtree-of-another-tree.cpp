@@ -1,5 +1,10 @@
 /**
+If subRoot is null it's always a subTree of root but if root is null and subRoot isn't then subRoot isn't a subtree.
 
+DFS method:
+After checking this edge case see if the tree is the same as the subtree given based on the current node you're looking at. If they aren't the same, keep searching the left and right of that node.
+
+Within sameTree we're comparing nodes in tree a with nodes in tree b to see if they're the same so we can't have that one is a nullptr and the other isn't and we can't have that they're different values so return false for either of those scenarios. If they're not nullptrs and they're of equal value continue looking at the left children and right children to make sure they're correct and repeat until you get to the ends of the trees. (nullptr)
 
  * Definition for a binary tree node.
  * struct TreeNode {
