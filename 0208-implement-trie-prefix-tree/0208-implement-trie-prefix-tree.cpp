@@ -1,3 +1,15 @@
+/*
+Build a tree like structure where the trie object is the root. 
+
+Each Trie node contains an array of pointers, where each index corresponds to a letter of the alphabet and points to another Trie node representing that letter.
+
+The boolean isEnd marks whether the path up to that node forms a complete word, which allows the Trie to distinguish between full words and prefixes of longer words.
+
+At the start of each function create a temporary Trie called cur to navigate through the structure. A loop iterates through each character of the input string. If the pointer for a character is nullptr, a new Trie node is created. Otherwise, the existing node is reused. The traversal then moves cur to that child node.
+
+
+Using this logic you can see if a string is in the trie or if its prefix is in the trie.
+*/
 class Trie {
 public:
     Trie* child[26];
