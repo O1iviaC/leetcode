@@ -60,6 +60,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/O1iviaC/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/O1iviaC/leetcode/tree/master/0020-valid-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/O1iviaC/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/O1iviaC/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/O1iviaC/leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/O1iviaC/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Stack
@@ -103,6 +104,7 @@
 | [0098-validate-binary-search-tree](https://github.com/O1iviaC/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0133-clone-graph](https://github.com/O1iviaC/leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/O1iviaC/leetcode/tree/master/0200-number-of-islands) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/O1iviaC/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/O1iviaC/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/O1iviaC/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/O1iviaC/leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -173,8 +175,10 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/O1iviaC/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/O1iviaC/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Trie
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/O1iviaC/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/O1iviaC/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
