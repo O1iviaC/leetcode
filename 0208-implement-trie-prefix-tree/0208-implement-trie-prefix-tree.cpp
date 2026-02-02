@@ -7,8 +7,11 @@ The boolean isEnd marks whether the path up to that node forms a complete word, 
 
 At the start of each function create a temporary Trie called cur to navigate through the structure. A loop iterates through each character of the input string. If the pointer for a character is nullptr, a new Trie node is created. Otherwise, the existing node is reused. The traversal then moves cur to that child node.
 
-
 Using this logic you can see if a string is in the trie or if its prefix is in the trie.
+
+cur->child[i] = new Trie() creates linkages between letters or chars and cur = cur->child[i] is how we move along the linkages.
+
+Note that each node doesn't actually store the value of the chars, the index of child itself represents a letter (index 0 is a, index 1 is b, index 2 is c, etc.)
 */
 class Trie {
 public:
